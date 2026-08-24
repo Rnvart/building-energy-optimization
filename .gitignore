@@ -1,0 +1,10 @@
+# Jupyter Notebook internal files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+.jupyter/
+
+# Heavy Data Files (Never commit raw datasets to GitHub)
+data/
+*.csv
+*.csv.gz
